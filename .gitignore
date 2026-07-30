@@ -1,0 +1,43 @@
+# Python
+__pycache__
+*/__pycache__
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+build/
+.eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+vola_venv/
+
+# uv
+.cache/
+.uv/
+
+# Type checking / linting
+.mypy_cache/
+.ruff_cache/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+src/icon.ico
+maps/
